@@ -17,7 +17,7 @@ To get started, you'll want to load the HelloWorld workspace. Here's how:
 
 **On Windows:** Double-click on the `HelloWorld` workspace.
 
-**On Linux:** `cd` into the `APL-Skeleton` directory and run `dyalog HelloWorld`.
+**On Linux:** `cd` into the `APL-Skeleton` directory and run `mapl HelloWorld`.
 
 **On Mac:** Use `]cd` to change into the `APL-Skeleton` directory and run `)load ./HelloWorld.dws`.
 
